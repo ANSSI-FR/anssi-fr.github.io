@@ -1,0 +1,26 @@
+# Contribution à ce projet
+
+Merci pour votre intérêt dans ce projet. Veuillez lire attentivement ce document avant de considérer toute contribution.
+
+## Portée des contributions
+
+Ce projet n'accepte pas de contribution extérieure sur le contenu, uniquement sur d'éventuels problèmes de configuration du dépôt ayant trait à la sécurité.
+
+## Politique de support
+
+Merci de comprendre et de respecter la portée limitée des contributions et du suppport de ce projet. En particulier, il n’y a aucune engagement concernant les délais de traitement.
+
+### Portée limitée du support
+
+* Le support est fourni exclusivement aux contributeurs travaillant sur des améliorations liées à la sécurité.
+* Les mainteneurs du projet ne fourniront de l’aide que pour des problèmes directement liés aux contributions de maintien en conditions de sécurité.
+
+## Comment contribuer
+
+1. Assurez-vous que votre contribution est strictement liée au maintien en conditions de sécurité.
+2. Clonez le dépôt et créez une nouvelle branche pour votre travail.
+3. Soumettez une _pull request_ avec une description claire de vos améliorations liées à la sécurité.
+
+## Vulnérabilités
+
+Si vous découvrez une vulnérabilité dans ce projet, veuillez la signaler selon la politique de sécurité décrite dans le fichier `SECURITY.md`.
