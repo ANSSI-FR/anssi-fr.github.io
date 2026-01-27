@@ -16,3 +16,10 @@ La source des informations correspond au dépôt [profil](https://github.com/ANS
 ## Publication
 
 La publication se fait à l'aide du workflow standard Github pages et Jekyll. Un [*symlink*](docs) vers le répertoire correspondant du submodule permet le lien entre les deux.
+
+## Mise à jour du site https://anssi-fr.github.io
+
+#. Mettre à jour le dépôt source ([profil](https://github.com/ANSSI-FR/.github))
+#. Synchroniser le *submodule*: `(cd github/; git pull --rebase)`
+#. Commit le résultat: `git commit -m "sync profile" github/`
+#. Push sur Github pour déclencher la construction du site web statique: `git push origin main`
