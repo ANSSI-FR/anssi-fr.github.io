@@ -19,7 +19,7 @@ La publication se fait à l'aide du workflow standard Github pages et Jekyll. Un
 
 ## Mise à jour du site https://anssi-fr.github.io
 
-#. Mettre à jour le dépôt source ([profil](https://github.com/ANSSI-FR/.github))
-#. Synchroniser le *submodule*: `(cd github/; git pull --rebase)`
-#. Commit le résultat: `git commit -m "sync profile" github/`
-#. Push sur Github pour déclencher la construction du site web statique: `git push origin main`
+1. Mettre à jour le dépôt source ([profil](https://github.com/ANSSI-FR/.github))
+1. Synchroniser le *submodule*: `(cd github/; git pull --rebase)`
+1. Commit le résultat: `git commit -m "sync profile" github/`
+1. Push sur Github pour déclencher la construction du site web statique: `git push origin main`
